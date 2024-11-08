@@ -11,4 +11,4 @@ Autonomous systems that perform tasks, make decisions, and interact with users w
 
 [PIAIC GenAI Classes - Revision Part 1 to 6  and Part 7 : video - Nov 7, 2024](https://www.youtube.com/watch?v=hRzyWYUpJKs)
 
-[colab - Lang Graph ](https://github.com/raheelam98/LangGraph/blob/main/03_langchain_ecosystem/langgraph/chatbot/docs/00_quickstart_part1_to_part7.ipynb)
+[colab - Lang Graph - Create Chatbots Agent - RM Tutorial](https://github.com/raheelam98/LangGraph/blob/main/03_langchain_ecosystem/langgraph/chatbot/docs/00_quickstart_part1_to_part7.ipynb)
