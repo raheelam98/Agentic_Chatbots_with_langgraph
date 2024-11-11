@@ -13,4 +13,4 @@ Autonomous systems that perform tasks, make decisions, and interact with users w
 
 [Class-3: Advance Chatbot with LangGraph - Revision Part 1 to 6  and Part 7 - Nov 7, 2024](https://www.youtube.com/watch?v=hRzyWYUpJKs)
 
-[colab - Lang Graph - Chatbots Agent](https://github.com/raheelam98/LangGraph/blob/main/03_langchain_ecosystem/langgraph/chatbot/docs/00_quickstart_part1_to_part7.ipynb)
+[Lang Graph - Chatbots Agent - Main](https://github.com/raheelam98/LangGraph/blob/main/03_langchain_ecosystem/langgraph/chatbot/docs/00_quickstart_part1_to_part7.ipynb)
